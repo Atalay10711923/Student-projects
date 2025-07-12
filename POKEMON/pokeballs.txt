@@ -1,0 +1,4 @@
+Pokeball 25
+Greatball 40
+Ultraball 75
+Masterball 100

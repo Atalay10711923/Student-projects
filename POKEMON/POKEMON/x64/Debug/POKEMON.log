@@ -1,0 +1,28 @@
+﻿  POKEMON.cpp
+C:\Users\ATALAY\Desktop\ödev\POKEMON\POKEMON.cpp(67,18): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ATALAY\Desktop\ödev\POKEMON\POKEMON.cpp(96,18): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ATALAY\Desktop\ödev\POKEMON\POKEMON.cpp(134,18): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ATALAY\Desktop\ödev\POKEMON\POKEMON.cpp(173,18): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ATALAY\Desktop\ödev\POKEMON\POKEMON.cpp(197,13): warning C4551: işlev çağrısında bağımsız değişken listesi eksik
+C:\Users\ATALAY\Desktop\ödev\POKEMON\POKEMON.cpp(280,29): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ATALAY\Desktop\ödev\POKEMON\POKEMON.cpp(358,24): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ATALAY\Desktop\ödev\POKEMON\POKEMON.cpp(429,19): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ATALAY\Desktop\ödev\POKEMON\POKEMON.cpp(569,14): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ATALAY\Desktop\ödev\POKEMON\POKEMON.cpp(570,21): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ATALAY\Desktop\ödev\POKEMON\POKEMON.cpp(615,54): warning C4267: 'bağımsız değişken': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ATALAY\Desktop\ödev\POKEMON\POKEMON.cpp(621,46): warning C4267: 'bağımsız değişken': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ATALAY\Desktop\ödev\POKEMON\POKEMON.cpp(624,55): warning C4267: 'bağımsız değişken': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ATALAY\Desktop\ödev\POKEMON\POKEMON.cpp(899,38): warning C4267: 'bağımsız değişken': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ATALAY\Desktop\ödev\POKEMON\POKEMON.cpp(908,38): warning C4267: 'bağımsız değişken': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ATALAY\Desktop\ödev\POKEMON\POKEMON.cpp(911,44): warning C4267: 'bağımsız değişken': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ATALAY\Desktop\ödev\POKEMON\POKEMON.cpp(913,44): warning C4267: 'bağımsız değişken': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ATALAY\Desktop\ödev\POKEMON\POKEMON.cpp(915,44): warning C4267: 'bağımsız değişken': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ATALAY\Desktop\ödev\POKEMON\POKEMON.cpp(917,44): warning C4267: 'bağımsız değişken': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ATALAY\Desktop\ödev\POKEMON\POKEMON.cpp(904,9): warning C4101: 'secim': yerel değişken başvurusu kaldırıldı
+C:\Users\ATALAY\Desktop\ödev\POKEMON\POKEMON.cpp(936,15): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\ATALAY\Desktop\ödev\POKEMON\POKEMON.cpp(947,20): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ATALAY\Desktop\ödev\POKEMON\POKEMON.cpp(950,24): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ATALAY\Desktop\ödev\POKEMON\POKEMON.cpp(953,24): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ATALAY\Desktop\ödev\POKEMON\POKEMON.cpp(956,24): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ATALAY\Desktop\ödev\POKEMON\POKEMON.cpp(965,55): warning C4267: 'bağımsız değişken': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  POKEMON.vcxproj -> C:\Users\ATALAY\Desktop\ödev\POKEMON\x64\Debug\POKEMON.exe

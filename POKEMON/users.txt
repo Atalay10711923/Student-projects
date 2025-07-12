@@ -1,0 +1,7 @@
+admin admin123 1
+player1 pass123 0
+player2 pass123 0
+k1  k1  1
+a   a   0
+b   b   1
+diyar  diyar1212  0
